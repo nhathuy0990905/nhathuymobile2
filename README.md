@@ -1,3 +1,3 @@
-Project này học về : 
-- Props
-- State
+Project ReactJS 02 : 
+- Nắm vững Props
+- Năm vững State
